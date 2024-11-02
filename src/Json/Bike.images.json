@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "6718c91630d077e6c45e5033"
+  },
+  "imageId": 1051,
+  "colorCode": "#040404",
+  "modelId": 10,
+  "variantId": 105,
+  "imageLinks": [
+    "https://bd.gaadicdn.com/processedimages/640X309/66b332832295e.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337c94b919.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337c9d59af.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337ca620d5.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337cb03943.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337cb86c8d.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337cc1bd2c.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/66b337cc999a2.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T09:59:50.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T09:59:50.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e1d0ea4c81405a56ed5b"
+  },
+  "imageId": 1061,
+  "colorCode": [
+    "#000000",
+    "#3255AF",
+    "#9f8767"
+  ],
+  "modelId": 10,
+  "variantId": 106,
+  "imageLinks": [
+    "https://bd.gaadicdn.com/processedimages/640X309/65b786abd34ab.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785add437d.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bd50738.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bde11a1.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785be6f625.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bef0573.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bf7ab15.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c0065c7.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c093fcc.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c1254fe.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c19f27e.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c223d5b.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c29cf21.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c32b18d.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c3b8772.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c4406aa.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T11:45:20.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:45:20.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e35aea4c81405a56ede8"
+  },
+  "imageId": 1071,
+  "colorCode": [
+    "#000000",
+    "#3255AF",
+    "#9f8767"
+  ],
+  "modelId": 10,
+  "variantId": 107,
+  "imageLinks": [
+    "https://bd.gaadicdn.com/processedimages/640X309/65b786abd34ab.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785add437d.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bd50738.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bde11a1.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785be6f625.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bef0573.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785bf7ab15.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c0065c7.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c093fcc.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c1254fe.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c19f27e.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c223d5b.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c29cf21.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c32b18d.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c3b8772.jpg",
+    "https://bd.gaadicdn.com/processedimages/640X309/65b785c4406aa.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T11:51:54.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:51:54.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e4dbea4c81405a56ee6d"
+  },
+  "imageId": 1001,
+  "colorCode": [
+    "#000000",
+    "#3255AF",
+    "#101011",
+    "#C6C4C3",
+    "#0097DA",
+    "#A9131E",
+    "#F4F4F2",
+    "#E8C718"
+  ],
+  "modelId": 10,
+  "variantId": null,
+  "imageLinks": [
+    "https://bd.gaadicdn.com/processedimages/494X300/66da72b1060ff.jpg",
+    "https://bd.gaadicdn.com/processedimages/494X300/66da72c232919.jpg",
+    "https://bd.gaadicdn.com/processedimages/494X300/66da72c2c5efe.jpg",
+    "https://bd.gaadicdn.com/processedimages/494X300/66da72c355512.jpg",
+    "https://bd.gaadicdn.com/processedimages/494X300/66da72c3da458.jpg"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T11:58:19.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:58:19.047Z"
+  },
+  "__v": 0
+}]

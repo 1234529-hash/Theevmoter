@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6718d2db4d0afee69fb9a92e"
+  },
+  "modelId": 10,
+  "variantId": null,
+  "colorCodes": [
+    {
+      "colorCode": "#000000",
+      "colorName": "Brooklyn Black",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a92f"
+      }
+    },
+    {
+      "colorCode": "#3255AF",
+      "colorName": "Indigo Metallic",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a930"
+      }
+    },
+    {
+      "colorCode": "#101011",
+      "colorName": "Ebony Black",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a931"
+      }
+    },
+    {
+      "colorCode": "#C6C4C3",
+      "colorName": "Matte Coars Grey",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a932"
+      }
+    },
+    {
+      "colorCode": "#0097DA",
+      "colorName": "Azure Blue",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a933"
+      }
+    },
+    {
+      "colorCode": "#A9131E",
+      "colorName": "Racing Red",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a934"
+      }
+    },
+    {
+      "colorCode": "#F4F4F2",
+      "colorName": "Cyber White",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a935"
+      }
+    },
+    {
+      "colorCode": "#E8C718",
+      "colorName": "Lime Yellow",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718d2db4d0afee69fb9a936"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T10:41:31.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T10:41:31.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e1b2ea4c81405a56ed4c"
+  },
+  "modelId": 10,
+  "variantId": 106,
+  "colorCodes": [
+    {
+      "colorCode": "#000000",
+      "colorName": "Brooklyn Black",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718e1b2ea4c81405a56ed4d"
+      }
+    },
+    {
+      "colorCode": "#9f8767",
+      "colorName": "Hazel Nut",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718e1b2ea4c81405a56ed4e"
+      }
+    },
+    {
+      "colorCode": "#3255AF",
+      "colorName": "Indigo Metallic",
+      "colorImageLink": "https://example.com/color-image.jpg",
+      "_id": {
+        "$oid": "6718e1b2ea4c81405a56ed4f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T11:44:50.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:44:50.244Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "6718a0950d4b4d663351aa84"
+  },
+  "variantId": 101,
+  "title": "Bajaj Chetak 2903",
+  "modelSlug": "chetak",
+  "variantName": "Chetak 2903",
+  "variantSlug": "chetak-2903",
+  "variantType": "base",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "63 km/Hr",
+    "123 km/charge",
+    "6 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T07:07:01.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T07:10:04.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a3e0a7324b09cb847059"
+  },
+  "variantId": 102,
+  "title": "Bajaj Chetak 2903 TecPac",
+  "modelSlug": "chetak",
+  "variantName": "Chetak 2903 TecPac",
+  "variantSlug": "chetak-2903-tecpac",
+  "variantType": "",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "63 km/Hr",
+    "123 km/charge",
+    "6 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T07:21:04.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T07:21:04.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a457a7324b09cb8470c8"
+  },
+  "variantId": 103,
+  "title": "Bajaj Chetak 3202",
+  "modelSlug": "chetak",
+  "variantName": "Chetak 3202",
+  "variantSlug": "chetak-3202",
+  "variantType": "",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "63 km/Hr",
+    "137 km/charge",
+    "5.5 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T07:23:03.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T07:23:03.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4bda7324b09cb847130"
+  },
+  "variantId": 104,
+  "title": "Bajaj Chetak 3202 TecPac",
+  "modelSlug": "chetak",
+  "variantName": "Chetak 3202 TecPac",
+  "variantSlug": "chetak-3202-tecpac",
+  "variantType": "",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "63 km/Hr",
+    "137 km/charge",
+    "5.5 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T07:24:45.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T07:24:45.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c75a5b05e06e8eb99f80"
+  },
+  "variantId": 105,
+  "title": "Bajaj Chetak 3201 Special Edition",
+  "modelSlug": "chetak",
+  "variantName": "Chetak 3201 Special Edition",
+  "variantSlug": "chetak-3201-special-edition",
+  "variantType": "Special Edition",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "73 km/Hr",
+    "136 km/charge",
+    "5.3 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T09:52:26.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T09:52:26.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718cefdbd349d8e253550e1"
+  },
+  "variantId": 106,
+  "title": "Bajaj Chetak Premium",
+  "modelSlug": "chetak",
+  "variantName": "Chetak Premium",
+  "variantSlug": "chetak-premium-std",
+  "variantType": "Premium Edition",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "73 km/Hr",
+    "126 km/charge",
+    "4.3 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T10:25:01.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T10:25:01.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e270ea4c81405a56edc4"
+  },
+  "variantId": 107,
+  "title": "Bajaj Chetak Premium TecPac",
+  "modelSlug": "chetak",
+  "variantName": "Chetak Premium TecPac",
+  "variantSlug": "chetak-premium",
+  "variantType": "Premium Edition",
+  "modelId": 10,
+  "price": "99,998 - 1.56 Lakh",
+  "specsInfo": [
+    "73 km/Hr",
+    "126 km/charge",
+    "4.3 Hr"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T11:48:00.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:48:00.162Z"
+  },
+  "__v": 0
+}]

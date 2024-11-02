@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "67189ecd2aa1eceeae441a93"
+  },
+  "modelId": 10,
+  "brandId": 1,
+  "brandName": "Bajaj",
+  "brandSlug": "bajaj",
+  "modelName": "Bajaj Chetak",
+  "modelSlug": "chetak",
+  "image": "https://bd.gaadicdn.com/processedimages/source/66da7273c6ef6.jpg",
+  "colorCode": [
+    "#000000",
+    "#3255AF",
+    "#101011",
+    "#C6C4C3",
+    "#0097DA",
+    "#A9131E",
+    "#F4F4F2",
+    "#E8C718"
+  ],
+  "priceRange": "99,998 - 1.56 Lakh",
+  "styleTag": [
+    "scooters",
+    "electric"
+  ],
+  "createdAt": {
+    "$date": "2024-10-23T06:59:25.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T06:59:25.159Z"
+  },
+  "__v": 0
+}]

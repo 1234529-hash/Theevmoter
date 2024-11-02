@@ -1,0 +1,5883 @@
+[{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fab"
+  },
+  "variantId": 101,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fac"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fad"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fae"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fb0"
+  },
+  "variantId": 101,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb1"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb2"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb3"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb4"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb5"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb6"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb7"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb8"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fb9"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fba"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fbb"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fbc"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fbe"
+  },
+  "variantId": 101,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fbf"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc0"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc1"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc2"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc3"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc4"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc5"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc6"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc7"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc8"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fc9"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fca"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fcc"
+  },
+  "variantId": 101,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fcd"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fcf"
+  },
+  "variantId": 101,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd0"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd1"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd2"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd3"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-curb-weight-of-tvs-jupiter~6373581393db5e238701e10b\" title=\"Kerb Weight\">Kerb Weight</a>",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd4"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd5"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd6"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fd8"
+  },
+  "variantId": 101,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fd9"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fda"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fdb"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fdc"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fdd"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fde"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fe0"
+  },
+  "variantId": 101,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe1"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe2"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe3"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe4"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fe6"
+  },
+  "variantId": 101,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe7"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-max-speed-of-bajaj-chetak~63b56cb7c2cbd0654200d121\" title=\"Top Speed\">Top Speed</a>",
+      "icon": "top-speed",
+      "value": "63 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fe8"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846fea"
+  },
+  "variantId": 101,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846feb"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fec"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-battery-type-of-bajaj-chetak~63b5723efdb39725df3a4fcb\" title=\"Battery Type\">Battery Type</a>",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fed"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "2.88 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fee"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846fef"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846ff0"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846ff1"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a310a7324b09cb846ff3"
+  },
+  "variantId": 101,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "123 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a310a7324b09cb846ff4"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a311a7324b09cb846ff6"
+  },
+  "variantId": 101,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ff7"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ff8"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a311a7324b09cb846ffa"
+  },
+  "variantId": 101,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ffb"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ffc"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ffd"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846ffe"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb846fff"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847000"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847001"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847002"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847003"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a311a7324b09cb847005"
+  },
+  "variantId": 101,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847006"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb847007"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a311a7324b09cb847009"
+  },
+  "variantId": 101,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a311a7324b09cb84700a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb84705c"
+  },
+  "variantId": 102,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84705d"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84705e"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84705f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb847061"
+  },
+  "variantId": 102,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847062"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth, WiFi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847063"
+      }
+    },
+    {
+      "text": "Navigation",
+      "icon": "navigation",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847064"
+      }
+    },
+    {
+      "text": "Call/SMS ALerts",
+      "icon": "call-sms-alerts",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847065"
+      }
+    },
+    {
+      "text": "Geo Fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847066"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847067"
+      }
+    },
+    {
+      "text": "Music Control",
+      "icon": "music-control",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847068"
+      }
+    },
+    {
+      "text": "Hill Hold",
+      "icon": "hill-hold",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847069"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706a"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706b"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706c"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706d"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706e"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84706f"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847070"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847071"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847072"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb847074"
+  },
+  "variantId": 102,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847075"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847076"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847077"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847078"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847079"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707a"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707b"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707c"
+      }
+    },
+    {
+      "text": "Riding Modes",
+      "icon": "riding-modes",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707d"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707e"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84707f"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847080"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847081"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb847083"
+  },
+  "variantId": 102,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847084"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb847086"
+  },
+  "variantId": 102,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847087"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847088"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847089"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84708a"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-curb-weight-of-tvs-jupiter~6373581393db5e238701e10b\" title=\"Kerb Weight\">Kerb Weight</a>",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84708b"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84708c"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84708d"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb84708f"
+  },
+  "variantId": 102,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847090"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847091"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847092"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847093"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847094"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847095"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb847097"
+  },
+  "variantId": 102,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847098"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb847099"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84709a"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84709b"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb84709d"
+  },
+  "variantId": 102,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84709e"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-max-speed-of-bajaj-chetak~63b56cb7c2cbd0654200d121\" title=\"Top Speed\">Top Speed</a>",
+      "icon": "top-speed",
+      "value": "63 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb84709f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470a1"
+  },
+  "variantId": 102,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a2"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a3"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-battery-type-of-bajaj-chetak~63b5723efdb39725df3a4fcb\" title=\"Battery Type\">Battery Type</a>",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a4"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "2.88 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a5"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a6"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a7"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470a8"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470aa"
+  },
+  "variantId": 102,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "123 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470ab"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470ad"
+  },
+  "variantId": 102,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470ae"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470af"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470b1"
+  },
+  "variantId": 102,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b2"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b3"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b4"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b5"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b6"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b7"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b8"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470b9"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470ba"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470bc"
+  },
+  "variantId": 102,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470bd"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470be"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a407a7324b09cb8470c0"
+  },
+  "variantId": 102,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Geo-fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470c1"
+      }
+    },
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470c2"
+      }
+    },
+    {
+      "text": "Call & Messaging",
+      "icon": "call-messaging",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470c3"
+      }
+    },
+    {
+      "text": "Navigation",
+      "icon": "navigation",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a407a7324b09cb8470c4"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470cb"
+  },
+  "variantId": 103,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470cc"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470cd"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470ce"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470d0"
+  },
+  "variantId": 103,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d1"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d2"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d3"
+      }
+    },
+    {
+      "text": "Music Control",
+      "icon": "music-control",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d4"
+      }
+    },
+    {
+      "text": "Hill Hold",
+      "icon": "hill-hold",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d5"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d6"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d7"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d8"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470d9"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470da"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470db"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470dc"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470dd"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470de"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470e0"
+  },
+  "variantId": 103,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e1"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e2"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e3"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e4"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e5"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e6"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e7"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e8"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470e9"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470ea"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470eb"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470ec"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470ee"
+  },
+  "variantId": 103,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470ef"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470f1"
+  },
+  "variantId": 103,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f2"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f3"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f4"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f5"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-curb-weight-of-tvs-jupiter~6373581393db5e238701e10b\" title=\"Kerb Weight\">Kerb Weight</a>",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f6"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f7"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470f8"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb8470fa"
+  },
+  "variantId": 103,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470fb"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470fc"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470fd"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470fe"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb8470ff"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847100"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb847102"
+  },
+  "variantId": 103,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847103"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847104"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847105"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847106"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb847108"
+  },
+  "variantId": 103,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847109"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-max-speed-of-bajaj-chetak~63b56cb7c2cbd0654200d121\" title=\"Top Speed\">Top Speed</a>",
+      "icon": "top-speed",
+      "value": "63 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84710a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb84710c"
+  },
+  "variantId": 103,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84710d"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84710e"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-battery-type-of-bajaj-chetak~63b5723efdb39725df3a4fcb\" title=\"Battery Type\">Battery Type</a>",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84710f"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "3.2 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847110"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847111"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847112"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847113"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb847115"
+  },
+  "variantId": 103,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "137 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847116"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb847118"
+  },
+  "variantId": 103,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847119"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84711a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb84711c"
+  },
+  "variantId": 103,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84711d"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84711e"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84711f"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847120"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847121"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847122"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847123"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847124"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847125"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb847127"
+  },
+  "variantId": 103,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847128"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb847129"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a47aa7324b09cb84712b"
+  },
+  "variantId": 103,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a47aa7324b09cb84712c"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847133"
+  },
+  "variantId": 104,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847134"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847135"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847136"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847138"
+  },
+  "variantId": 104,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847139"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth, WiFi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713a"
+      }
+    },
+    {
+      "text": "Navigation",
+      "icon": "navigation",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713b"
+      }
+    },
+    {
+      "text": "Call/SMS ALerts",
+      "icon": "call-sms-alerts",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713c"
+      }
+    },
+    {
+      "text": "Geo Fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713d"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713e"
+      }
+    },
+    {
+      "text": "Music Control",
+      "icon": "music-control",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84713f"
+      }
+    },
+    {
+      "text": "Hill Hold",
+      "icon": "hill-hold",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847140"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847141"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847142"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847143"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847144"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847145"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847146"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847147"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847148"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847149"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb84714b"
+  },
+  "variantId": 104,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84714c"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84714d"
+      }
+    },
+    {
+      "text": "Internet Connectivity",
+      "icon": "internet-connectiviy",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84714e"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84714f"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847150"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847151"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847152"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847153"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847154"
+      }
+    },
+    {
+      "text": "Riding Modes",
+      "icon": "riding-modes",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847155"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847156"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847157"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847158"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847159"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb84715b"
+  },
+  "variantId": 104,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84715c"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb84715e"
+  },
+  "variantId": 104,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84715f"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847160"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847161"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847162"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-curb-weight-of-tvs-jupiter~6373581393db5e238701e10b\" title=\"Kerb Weight\">Kerb Weight</a>",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847163"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847164"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847165"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847167"
+  },
+  "variantId": 104,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847168"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847169"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84716a"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84716b"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84716c"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84716d"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb84716f"
+  },
+  "variantId": 104,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847170"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847171"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847172"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847173"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847175"
+  },
+  "variantId": 104,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847176"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-max-speed-of-bajaj-chetak~63b56cb7c2cbd0654200d121\" title=\"Top Speed\">Top Speed</a>",
+      "icon": "top-speed",
+      "value": "73 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847177"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847179"
+  },
+  "variantId": 104,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717a"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717b"
+      }
+    },
+    {
+      "text": "<a class = \"link\" href = \"/chetak/faqs/what-is-the-battery-type-of-bajaj-chetak~63b5723efdb39725df3a4fcb\" title=\"Battery Type\">Battery Type</a>",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717c"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "3.2 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717d"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717e"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84717f"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847180"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847182"
+  },
+  "variantId": 104,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "137 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847183"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847185"
+  },
+  "variantId": 104,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847186"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847187"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847189"
+  },
+  "variantId": 104,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718a"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718b"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718c"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718d"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718e"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84718f"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847190"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847191"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847192"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847194"
+  },
+  "variantId": 104,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847195"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847196"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718a4e0a7324b09cb847198"
+  },
+  "variantId": 104,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Geo-fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb847199"
+      }
+    },
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84719a"
+      }
+    },
+    {
+      "text": "Call & Messaging",
+      "icon": "call-messaging",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84719b"
+      }
+    },
+    {
+      "text": "Navigation",
+      "icon": "navigation",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718a4e0a7324b09cb84719c"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e503a"
+  },
+  "variantId": 105,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e503b"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e503c"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e503d"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e503f"
+  },
+  "variantId": 105,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5040"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5041"
+      }
+    },
+    {
+      "text": "Call/SMS Alerts",
+      "icon": "call-sms-alerts",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5042"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5043"
+      }
+    },
+    {
+      "text": "Music Control",
+      "icon": "music-control",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5044"
+      }
+    },
+    {
+      "text": "OTA",
+      "icon": "ota",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5045"
+      }
+    },
+    {
+      "text": "Hill Hold",
+      "icon": "hill-hold",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5046"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5047"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5048"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5049"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "Tamper Alert",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504a"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504b"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504c"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504d"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504e"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e504f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5051"
+  },
+  "variantId": 105,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5052"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5053"
+      }
+    },
+    {
+      "text": "Internet Connectivity",
+      "icon": "internet-connectivity",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5054"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5055"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5056"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5057"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5058"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5059"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505a"
+      }
+    },
+    {
+      "text": "Riding Modes",
+      "icon": "riding-modes",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505b"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "Tamper Alert",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505c"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505d"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505e"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e505f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5061"
+  },
+  "variantId": 105,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5062"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5064"
+  },
+  "variantId": 105,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Width",
+      "icon": "width",
+      "value": "1333 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">These dimensions describe the physical size of the bike. Width represents the distance across the widest part of the bike, length is the distance from front to back, and height is the vertical measurement from the ground to the highest point of the bike.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5065"
+      }
+    },
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5066"
+      }
+    },
+    {
+      "text": "Height",
+      "icon": "height",
+      "value": "772 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5067"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5068"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5069"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e506a"
+      }
+    },
+    {
+      "text": "Kerb Weight",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e506b"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e506c"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e506d"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e506f"
+  },
+  "variantId": 105,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5070"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5071"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5072"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5073"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5074"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5075"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5077"
+  },
+  "variantId": 105,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5078"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5079"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e507a"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e507b"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e507d"
+  },
+  "variantId": 105,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e507e"
+      }
+    },
+    {
+      "text": "Top Speed",
+      "icon": "top-speed",
+      "value": "73 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e507f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5081"
+  },
+  "variantId": 105,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5082"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5083"
+      }
+    },
+    {
+      "text": "Battery Type",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5084"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "3.2 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5085"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5086"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5087"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5088"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e508a"
+  },
+  "variantId": 105,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "136 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e508b"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e508d"
+  },
+  "variantId": 105,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e508e"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "5.30 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e508f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94830d077e6c45e5091"
+  },
+  "variantId": 105,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5092"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5093"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5094"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5095"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5096"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5097"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5098"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e5099"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94830d077e6c45e509a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94930d077e6c45e509c"
+  },
+  "variantId": 105,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94930d077e6c45e509d"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94930d077e6c45e509e"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718c94930d077e6c45e50a0"
+  },
+  "variantId": 105,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Calls & Messaging",
+      "icon": "calls-messaging",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94930d077e6c45e50a1"
+      }
+    },
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718c94930d077e6c45e50a2"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed61"
+  },
+  "variantId": 106,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed62"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed63"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed64"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed66"
+  },
+  "variantId": 106,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed67"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed68"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed69"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6a"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6b"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6c"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6d"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6e"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed6f"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed70"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed71"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed72"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed74"
+  },
+  "variantId": 106,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed75"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed76"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed77"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed78"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed79"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7a"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7b"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7c"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7d"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7e"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed7f"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed80"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed82"
+  },
+  "variantId": 106,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed83"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed85"
+  },
+  "variantId": 106,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed86"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed87"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed88"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed89"
+      }
+    },
+    {
+      "text": "Kerb Weight",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed8a"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed8b"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed8c"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed8e"
+  },
+  "variantId": 106,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed8f"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed90"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed91"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed92"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed93"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed94"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed96"
+  },
+  "variantId": 106,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed97"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed98"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed99"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed9a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56ed9c"
+  },
+  "variantId": 106,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed9d"
+      }
+    },
+    {
+      "text": "Top Speed",
+      "icon": "top-speed",
+      "value": "73 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56ed9e"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56eda0"
+  },
+  "variantId": 106,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda1"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda2"
+      }
+    },
+    {
+      "text": "Battery Type",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda3"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "3.2 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda4"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda5"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda6"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56eda7"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56eda9"
+  },
+  "variantId": 106,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "126 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edaa"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56edac"
+  },
+  "variantId": 106,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edad"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edae"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56edb0"
+  },
+  "variantId": 106,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb1"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb2"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb3"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb4"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb5"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb6"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb7"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb8"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edb9"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56edbb"
+  },
+  "variantId": 106,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edbc"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edbd"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e213ea4c81405a56edbf"
+  },
+  "variantId": 106,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e213ea4c81405a56edc0"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56edeb"
+  },
+  "variantId": 107,
+  "title": "Engine and Transmission",
+  "items": [
+    {
+      "text": "No. Of Batteries",
+      "icon": "no-of-batteries",
+      "value": "1",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edec"
+      }
+    },
+    {
+      "text": "Motor Power",
+      "icon": "motor-power",
+      "value": "4.2 kW",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56eded"
+      }
+    },
+    {
+      "text": "Starting",
+      "icon": "starting",
+      "value": "Push Button Start",
+      "toolTipDescription": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"> Describes how the engine is initiated. Most petrol bikes use electric starters, kick starters, or both, to commence engine operation.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edee"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56edf0"
+  },
+  "variantId": 107,
+  "title": "Features",
+  "items": [
+    {
+      "text": "Instrument Console",
+      "icon": "instrument-console",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to the display panel on a petrol bike that shows essential information like speed, RPM, fuel level, and other indicators such as engine temperature and gear position.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf1"
+      }
+    },
+    {
+      "text": "Bluetooth Connectivity",
+      "icon": "bluetooth-connectivity",
+      "value": "Bluetooth,WiFi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf2"
+      }
+    },
+    {
+      "text": "Navigation",
+      "icon": "navigation",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf3"
+      }
+    },
+    {
+      "text": "Call/SMS Alerts",
+      "icon": "call-sms-alerts",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf4"
+      }
+    },
+    {
+      "text": "Geo Fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf5"
+      }
+    },
+    {
+      "text": "USB Charging Port",
+      "icon": "usb-charging-port",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf6"
+      }
+    },
+    {
+      "text": "Music Control",
+      "icon": "music-control",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf7"
+      }
+    },
+    {
+      "text": "Hill Hold",
+      "icon": "hill-hold",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf8"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edf9"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edfa"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edfb"
+      }
+    },
+    {
+      "text": "Additional Features Of Variant",
+      "icon": "additional-features-of-variant",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edfc"
+      }
+    },
+    {
+      "text": "Seat Type",
+      "icon": "seat-type",
+      "value": "Single",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edfd"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edfe"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56edff"
+      }
+    },
+    {
+      "text": "Carry hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee00"
+      }
+    },
+    {
+      "text": "Underseat storage",
+      "icon": "underseat-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee01"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee03"
+  },
+  "variantId": 107,
+  "title": "Features and Safety",
+  "items": [
+    {
+      "text": "Braking Type",
+      "icon": "braking-type",
+      "value": "Combine Braking System",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee04"
+      }
+    },
+    {
+      "text": "Charging Point",
+      "icon": "charging-point",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee05"
+      }
+    },
+    {
+      "text": "Internet Connectivity",
+      "icon": "internet-connectivity",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee06"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee07"
+      }
+    },
+    {
+      "text": "Speedometer",
+      "icon": "speedometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Displays the current speed of the bike in kilometers per hour (km/h) or miles per hour (mph), providing crucial information for safe riding.</span></p>\r\n<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\"><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://www.youtube.com/watch?v=M2ZZJq5skTQ\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">https://www.youtube.com/watch?v=M2ZZJq5skTQ</a></span></span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee08"
+      }
+    },
+    {
+      "text": "Odometer",
+      "icon": "odometer",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\"> Shows the total distance covered by the bike since its inception, providing a comprehensive record of its usage</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee09"
+      }
+    },
+    {
+      "text": "Tripmeter",
+      "icon": "tripmeter",
+      "value": "Digital",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Tracks the distance traveled during a specific journey or trip, enabling riders to monitor their mileage for individual rides.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0a"
+      }
+    },
+    {
+      "text": "Pass Switch",
+      "icon": "pass-switch",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0b"
+      }
+    },
+    {
+      "text": "Clock",
+      "icon": "clock",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0c"
+      }
+    },
+    {
+      "text": "Riding Modes",
+      "icon": "riding-modes",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0d"
+      }
+    },
+    {
+      "text": "Additional Features",
+      "icon": "additional-features",
+      "value": "On Board Charger, Fob Key, Sequential Blinkers, Trip Analytics & Trip Data, Display Theme Change, Notification Alert on Cluster",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">This refers to unique features or upgrades specific to a particular model or variant of the petrol bike, which may include enhanced performance components, aesthetic improvements, or technology integrations.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0e"
+      }
+    },
+    {
+      "text": "Carry Hook",
+      "icon": "carry-hook",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee0f"
+      }
+    },
+    {
+      "text": "Passenger Footrest",
+      "icon": "passenger-footrest",
+      "value": "Yes",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Provides a designated area for the pillion passenger to rest their feet comfortably during rides.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee10"
+      }
+    },
+    {
+      "text": "Display",
+      "icon": "display",
+      "value": "5.5 inch TFT Display",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee11"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee13"
+  },
+  "variantId": 107,
+  "title": "Chassis and Suspension",
+  "items": [
+    {
+      "text": "Body Type",
+      "icon": "body-type",
+      "value": "Electric Bikes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee14"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee16"
+  },
+  "variantId": 107,
+  "title": "Dimensions and Capacity",
+  "items": [
+    {
+      "text": "Length",
+      "icon": "length",
+      "value": "1894 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee17"
+      }
+    },
+    {
+      "text": "Saddle Height",
+      "icon": "saddle-height",
+      "value": "760 mm",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Indicates the distance from the ground to the top surface of the bike's seat, influencing rider comfort and accessibility, especially for shorter or taller individuals.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee18"
+      }
+    },
+    {
+      "text": "Ground Clearance",
+      "icon": "ground-clearance",
+      "value": "160 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee19"
+      }
+    },
+    {
+      "text": "Wheelbase",
+      "icon": "wheelbase",
+      "value": "1330 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee1a"
+      }
+    },
+    {
+      "text": "Kerb Weight",
+      "icon": "kerb-weight",
+      "value": "134 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee1b"
+      }
+    },
+    {
+      "text": "Total Weight",
+      "icon": "total-weight",
+      "value": "284 kg",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee1c"
+      }
+    },
+    {
+      "text": "Additional Storage",
+      "icon": "additional-storage",
+      "value": "21 L",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee1d"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee1f"
+  },
+  "variantId": 107,
+  "title": "Electricals",
+  "items": [
+    {
+      "text": "Headlight",
+      "icon": "headlight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee20"
+      }
+    },
+    {
+      "text": "Taillight",
+      "icon": "taillight",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee21"
+      }
+    },
+    {
+      "text": "Turn Signal Lamp",
+      "icon": "turn-signal-lamp",
+      "value": "LED",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee22"
+      }
+    },
+    {
+      "text": "DRLs",
+      "icon": "drls",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee23"
+      }
+    },
+    {
+      "text": "LED Taillights",
+      "icon": "led-taillights",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee24"
+      }
+    },
+    {
+      "text": "Low Battery Indicator",
+      "icon": "low-battery-indicator",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee25"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee27"
+  },
+  "variantId": 107,
+  "title": "Tyres and Brakes",
+  "items": [
+    {
+      "text": "Front Tyre Pressure (Rider)",
+      "icon": "front-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee28"
+      }
+    },
+    {
+      "text": "Front Tyre Pressure (Rider & Pillion)",
+      "icon": "front-tyre-pressure--rider-pillion-",
+      "value": "29 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee29"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider)",
+      "icon": "rear-tyre-pressure--rider-",
+      "value": "22 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee2a"
+      }
+    },
+    {
+      "text": "Rear Tyre Pressure (Rider & Pillion)",
+      "icon": "rear-tyre-pressure--rider-pillion-",
+      "value": "34 psi",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee2b"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee2d"
+  },
+  "variantId": 107,
+  "title": "Performance",
+  "items": [
+    {
+      "text": "Scooter Speed",
+      "icon": "scooter-speed",
+      "value": "high",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee2e"
+      }
+    },
+    {
+      "text": "Top Speed",
+      "icon": "top-speed",
+      "value": "73 km/Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee2f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee31"
+  },
+  "variantId": 107,
+  "title": "Motor & Battery",
+  "items": [
+    {
+      "text": "Motor Type",
+      "icon": "motor-type",
+      "value": "BLDC",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee32"
+      }
+    },
+    {
+      "text": "Drive Type",
+      "icon": "drive-type",
+      "value": "Hub Motor",
+      "toolTipDescription": "<p><span style=\"font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;\">Describes the configuration of the drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive, affecting traction and handling characteristics.</span></p>",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee33"
+      }
+    },
+    {
+      "text": "Battery Type",
+      "icon": "battery-type",
+      "value": "Li-ion",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee34"
+      }
+    },
+    {
+      "text": "Battery Capacity",
+      "icon": "battery-capacity",
+      "value": "3.2 Kwh",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee35"
+      }
+    },
+    {
+      "text": "Water Proof Rating",
+      "icon": "water-proof-rating",
+      "value": "IP67",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee36"
+      }
+    },
+    {
+      "text": "Reverse Assist",
+      "icon": "reverse-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee37"
+      }
+    },
+    {
+      "text": "Transmission",
+      "icon": "transmission",
+      "value": "Automatic",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee38"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee3a"
+  },
+  "variantId": 107,
+  "title": "Range",
+  "items": [
+    {
+      "text": "Claimed Range",
+      "icon": "claimed-range",
+      "value": "126 km/charge",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee3b"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee3d"
+  },
+  "variantId": 107,
+  "title": "Charging",
+  "items": [
+    {
+      "text": "Charging At Home",
+      "icon": "charging-at-home",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee3e"
+      }
+    },
+    {
+      "text": "Charging Time(0-100%)",
+      "icon": "charging-time-0-100%-",
+      "value": "4.3 Hr",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee3f"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee41"
+  },
+  "variantId": 107,
+  "title": "Underpinnings",
+  "items": [
+    {
+      "text": "Suspension Front",
+      "icon": "suspension-front",
+      "value": "Single Sided Leading Link",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee42"
+      }
+    },
+    {
+      "text": "Suspension Rear",
+      "icon": "suspension-rear",
+      "value": "Offset Mono Shock",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee43"
+      }
+    },
+    {
+      "text": "Brakes Front",
+      "icon": "brakes-front",
+      "value": "Disc",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee44"
+      }
+    },
+    {
+      "text": "Brakes Rear",
+      "icon": "brakes-rear",
+      "value": "Drum",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee45"
+      }
+    },
+    {
+      "text": "Tyre Size",
+      "icon": "tyre-size",
+      "value": "Front :-90/90-12\tRear :-90/100-12",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee46"
+      }
+    },
+    {
+      "text": "Wheel Size",
+      "icon": "wheel-size",
+      "value": "Front :-304.8 mm,Rear :-304.8 mm",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee47"
+      }
+    },
+    {
+      "text": "Wheels Type",
+      "icon": "wheels-type",
+      "value": "Alloy",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee48"
+      }
+    },
+    {
+      "text": "Frame",
+      "icon": "frame",
+      "value": "Tublar Steel Under Bone",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee49"
+      }
+    },
+    {
+      "text": "Tubeless Tyre",
+      "icon": "tubeless-tyre",
+      "value": "Tubeless",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee4a"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee4c"
+  },
+  "variantId": 107,
+  "title": "What’s Included",
+  "items": [
+    {
+      "text": "Vehicle Warranty",
+      "icon": "vehicle-warranty",
+      "value": "3 Years or 50,000 Km",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee4d"
+      }
+    },
+    {
+      "text": "Mobile Application",
+      "icon": "mobile-application",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee4e"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6718e383ea4c81405a56ee50"
+  },
+  "variantId": 107,
+  "title": "App Features",
+  "items": [
+    {
+      "text": "Geo-fencing",
+      "icon": "geo-fencing",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee51"
+      }
+    },
+    {
+      "text": "Calls & Messaging",
+      "icon": "calls-messaging",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee52"
+      }
+    },
+    {
+      "text": "Navigation assist",
+      "icon": "navigation-assist",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee53"
+      }
+    },
+    {
+      "text": "Low battery alert",
+      "icon": "low-battery-alert",
+      "value": "Yes",
+      "toolTipDescription": "",
+      "_id": {
+        "$oid": "6718e383ea4c81405a56ee54"
+      }
+    }
+  ],
+  "isActive": false,
+  "showCta": true,
+  "__v": 0
+}]
