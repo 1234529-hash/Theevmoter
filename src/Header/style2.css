@@ -1,0 +1,29 @@
+.navmenu ul.menu>li>a,
+.navmenu ul.menu li summary {
+    padding: 5px 15px;
+}
+
+.navmenu ul.menu li a:hover,
+.navmenu ul.menu li a:focus,
+.navmenu ul.menu li a:active,
+.navmenu ul.menu li summary:hover,
+.navmenu ul.menu li summary:focus,
+.navmenu ul.menu li summary:active {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navmenu ul.menu li ul li a,
+.navmenu ul.menu li ul li summary {
+    padding: 8px;
+}
+
+.navmenu ul.menu li ul li a:hover,
+.navmenu ul.menu li ul li a:focus,
+.navmenu ul.menu li ul li a:active,
+.navmenu ul.menu li ul li summary:hover,
+.navmenu ul.menu li ul li summary:focus,
+.navmenu ul.menu li ul li summary:active {
+    color: #FFF;
+    background-color: transparent;
+}

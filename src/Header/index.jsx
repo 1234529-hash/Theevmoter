@@ -1,338 +1,275 @@
-import React, { useEffect, useState } from "react";
+// import React, { useState } from "react";
+// import logo1 from "../Image1/logo1.png";
+// import { Link, NavLink, useNavigate } from "react-router-dom";
+// import { Button } from "@mui/material";
+// import AddLocationIcon from "@mui/icons-material/AddLocation";
+// import PersonIcon from "@mui/icons-material/Person";
+// import "./style2.css"
+
+// const Header1 = () => {
+//   const [menuOpen, setMenuOpen] = useState(false);
+//   const [searchValue, setSearchValue] = useState("");
+//   const [selectedVehicleType, setSelectedVehicleType] = useState("Car");
+
+//   const handleInputChange = (e) => {
+//     setSearchValue(e.target.value);
+//   };
+
+//   const handleVehicleTypeChange = (event) => {
+//     setSelectedVehicleType(event.target.value);
+//   };
+
+//   return (
+//     <header class="flex items-center justify-between flex-wrap bg-[#0f172a] py-4 w-full">
+//       <div class="flex-shrink-0 ml-6">
+//         <Link to="/" className="flex items-center">
+//           <img src={logo1} alt="logo" className="w-20 h-auto" />
+//         </Link>
+//       </div>
+
+//       <button id="nav-toggle" class="md:hidden p-2 mr-4 ml-6 my-2 border rounded border-gray-600 text-blue-200 hover:border-blue-200">
+//         <i class="fas fa-bars fa-2x"></i>
+//       </button>
+
+//       <div className="pl-6 w-full md:w-auto hidden md:block" id="nav-content">
+//         <ul className="md:flex">
+//           <li className="mr-6 p-1 md:border-b-2 ">
+//             <Link className="text-blue-200 cursor-default" to="/">Home</Link>
+//           </li>
+//           <li className="mr-6 p-1">
+//             <Link className="text-white hover:text-blue-300" to="/newcars">Electric Cars</Link>
+//           </li>
+//           <li className="mr-6 p-1">
+//             <Link className="text-white hover:text-blue-300" to="/hybrid_cars">Hybrid Cars</Link>
+//           </li>
+//           <li className="mr-6 p-1">
+//             <Link className="text-white hover:text-blue-300" to="/hydrogen_cars">Hydrogen Cars</Link>
+//           </li>
+//           <li className="mr-6 p-1">
+//             <Link className="text-white hover:text-blue-300" to="/news_reviews">Car News</Link>
+//           </li>
+//           <li className="mr-6 p-1">
+//             <Link className="text-white hover:text-blue-300" to="/bike/news_reviews">Bikes News</Link>
+//           </li>
+
+//         </ul>
+//       </div>
+
+//     </header>
+//     // <nav className="bg-white shadow-md">
+//     //   <div className="flex flex-col md:flex-row items-center justify-between p-4">
+//     //     {/* Logo aligned left */}
+//     //     <div className="flex items-center flex-shrink-0 w-36">
+//     //       <Link to="/" className="flex items-center">
+//     //         <img src={logo1} alt="logo" className="w-20 h-auto" />
+//     //       </Link>
+//     //     </div>
+
+//     //     {/* Centered search bar - Hidden on mobile */}
+//     //     <div className="flex items-center justify-center flex-grow mx-4 relative md:block hidden">
+//     //       <select
+//     //         value={selectedVehicleType}
+//     //         onChange={handleVehicleTypeChange}
+//     //         className="p-2 border border-gray-300 rounded-md min-w-[120px] mr-2 appearance-none outline-none"
+//     //       >
+//     //         {["Car", "Truck", "SUV", "Motorcycle", "Van"].map((type, index) => (
+//     //           <option key={index} value={type}>
+//     //             {type}
+//     //           </option>
+//     //         ))}
+//     //       </select>
+
+//     //       <input
+//     //         type="text"
+//     //         placeholder="Search Vehicle"
+//     //         value={searchValue}
+//     //         onChange={handleInputChange}
+//     //         className="w-full p-2 pl-10 border border-gray-300 rounded-md outline-none"
+//     //       />
+//     //     </div>
+
+//     //     {/* Login and Select Location aligned right */}
+//     //     <div className="flex items-center gap-4">
+//     //       <Link to="/login" className="flex items-center">
+//     //         <PersonIcon className="mr-1" />
+//     //         <Button variant="contained" className="mr-1">Login</Button>
+//     //       </Link>
+//     //       <div className="flex items-center text-gray-700">
+//     //         <AddLocationIcon className="mr-1" />
+//     //         <span>Select Location</span>
+//     //       </div>
+//     //     </div>
+//     //   </div>
+
+//     //   {/* Mobile Hamburger Menu */}
+//     //   <div className="flex justify-between items-center p-2 md:hidden">
+//     //     <Link to="/" className="flex items-center">
+//     //       <img src={logo1} alt="logo" className="w-20 h-auto" />
+//     //     </Link>
+
+//     //     <div
+//     //       className="flex flex-col cursor-pointer z-10 ml-auto"
+//     //       onClick={() => setMenuOpen(!menuOpen)}
+//     //     >
+//     //       <span className="w-6 h-[3px] bg-gray-700 my-1"></span>
+//     //       <span className="w-6 h-[3px] bg-gray-700 my-1"></span>
+//     //       <span className="w-6 h-[3px] bg-gray-700 my-1"></span>
+//     //     </div>
+//     //   </div>
+
+//     //   {/* Search bar for mobile */}
+//     //   <div className={`md:hidden ${menuOpen ? "block" : "hidden"} p-4`}>
+//     //     <div className="flex items-center justify-center mb-4 relative">
+//     //       <select
+//     //         value={selectedVehicleType}
+//     //         onChange={handleVehicleTypeChange}
+//     //         className="p-2 border border-gray-300 rounded-md min-w-[120px] mr-2 appearance-none outline-none"
+//     //       >
+//     //         {["Car", "Truck", "SUV", "Motorcycle", "Van"].map((type, index) => (
+//     //           <option key={index} value={type}>
+//     //             {type}
+//     //           </option>
+//     //         ))}
+//     //       </select>
+
+//     //       <input
+//     //         type="text"
+//     //         placeholder="Search Vehicle"
+//     //         value={searchValue}
+//     //         onChange={handleInputChange}
+//     //         className="w-full p-2 pl-10 border border-gray-300 rounded-md outline-none"
+//     //       />
+//     //     </div>
+//     //   </div>
+
+//     //   <ul
+//     //     className={`absolute top-12 left-0 right-0 bg-white p-5 space-y-5 transition-all duration-300 ease-in-out md:hidden ${menuOpen ? "flex" : "hidden"} flex-col`}
+//     //   >
+//     //     {[
+//     //       { path: "/newcars", label: "Electric Cars" },
+//     //       { path: "/hybrid_cars", label: "Hybrid Cars" },
+//     //       { path: "/hydrogen_cars", label: "Hydrogen Cars" },
+//     //       { path: "/news_reviews", label: "Car News" },
+//     //       { path: "/bike/news_reviews", label: "Bikes News" },
+//     //     ].map(({ path, label }) => (
+//     //       <li key={path}>
+//     //         <NavLink
+//     //           to={path}
+//     //           onClick={() => setMenuOpen(false)}
+//     //           className={({ isActive }) =>
+//     //             `block p-2 rounded-md ${isActive ? "bg-blue-500 text-white" : "text-gray-700"} transition-colors duration-300`
+//     //           }
+//     //         >
+//     //           {label}
+//     //         </NavLink>
+//     //       </li>
+//     //     ))}
+//     //   </ul>
+//     // </nav>
+//   );
+// };
+
+// export default Header1;
+
+
+import React, { useState } from "react";
 import logo1 from "../Image1/logo1.png";
-import { IoIosPerson } from "react-icons/io";
-import { Link, NavLink, useNavigate } from "react-router-dom";
-import "./style.css";
-
-import Lottie from "react-lottie";
-import { Button } from "@mui/material";
-import AddLocationIcon from "@mui/icons-material/AddLocation";
+import { Link } from "react-router-dom";
+import { GiHamburgerMenu } from "react-icons/gi";
+import { FaSearch } from "react-icons/fa";
 import PersonIcon from "@mui/icons-material/Person";
+import "./style2.css";
+import AddLocationIcon from "@mui/icons-material/AddLocation";
 
-// import * as animationData from "../data/beta.json";
-// import { fetchEvMake, fetchEvModel } from "../../helpers/axios";
-// import LocationPopup from "../Popup/popup";
-
-/**
- * @author
- * @function Header
- **/
-
-const Header1 = (props) => {
+const Header1 = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-  const defaultOptions = {
-    loop: true,
-    autoplay: true,
-    // animationData: animationData,
-    rendererSettings: {
-      preserveAspectRatio: "xMidYMid",
-    },
-  };
-
   const [searchValue, setSearchValue] = useState("");
-  const [selectedVehicle, setSelectedVehicle] = useState("");
-  const [makes, setMakes] = useState([]);
-  const [filteredVehicles, setFilteredVehicles] = useState([]);
-  const [vehiclesData, setVehiclesData] = useState([]);
-
-  // useEffect(() => {
-  //   const fetchVehicles = async () => {
-  //     try {
-  //       let { message } = await fetchEvModel();
-  //       const processedMessage = message?.map((vehicle) => {
-  //         const { _id, name, title, make, image, modelsId, priceRange } =
-  //           vehicle;
-  //         return { _id, name, make, image, modelsId, priceRange, title };
-  //       });
-
-  //       setVehiclesData(processedMessage);
-  //     } catch (error) {
-  //       console.error("Error fetching vehicles data:", error);
-  //     }
-  //   };
-
-  //   fetchVehicles();
-  // }, []);
-
-  // useEffect(() => {
-  //   async function fetchData() {
-  //     try {
-  //       const result = await fetchEvMake();
-  //       const obj = {
-  //         make: "All",
-  //         makeSlug: "",
-  //       };
-  //       setMakes([obj, ...result.message]);
-  //     } catch (error) {
-  //       console.error("Error fetching data:", error);
-  //     }
-  //   }
-
-  //   fetchData();
-  // }, []);
-
-  // useEffect(() => {
-  //   async function fetchVehiclesData() {
-  //     try {
-  //       if (searchValue) {
-  //         console.log("ve", vehiclesData);
-  //         const vehicles = vehiclesData?.filter((vehicle) => {
-  //           let { title } = vehicle;
-  //           title = title.toLowerCase();
-  //           return title.startsWith(searchValue.toLowerCase());
-  //         });
-
-  //         setFilteredVehicles(vehicles);
-  //       } else {
-  //         setFilteredVehicles([]);
-  //       }
-  //     } catch (error) {
-  //       console.error("Error fetching data:", error);
-  //     }
-  //   }
-
-  //   fetchVehiclesData();
-  // }, [searchValue]);
-
-  const navigate = useNavigate();
-
-  const handleVehicleChange = (e) => {
-    const selectedMake = makes.filter(
-      (obj) => obj.makeSlug === e.target.value
-    )[0];
-    if (selectedMake.make === "") {
-      navigate("/");
-    } else {
-      const { make, makeSlug, makeId } = selectedMake;
-      const state = { make, makeSlug, makeId };
-      setSelectedVehicle(makeSlug);
-      navigate(`/${makeSlug}`, { state: { state } });
-    }
-  };
-
-  const [selectedIndex, setSelectedIndex] = useState(-1);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
 
   const handleInputChange = (e) => {
     setSearchValue(e.target.value);
-    setDropdownOpen(true);
-    setSelectedIndex(-1);
   };
 
-  const handleKeyDown = (e) => {
-    if (e.key === "ArrowDown") {
-      e.preventDefault();
-
-      if (filteredVehicles.length > 0) {
-        setSelectedIndex((prevIndex) =>
-          prevIndex < filteredVehicles.length - 1 ? prevIndex + 1 : 0
-        );
-      }
-    } else if (e.key === "ArrowUp") {
-      e.preventDefault();
-
-      if (filteredVehicles.length > 0) {
-        setSelectedIndex((prevIndex) =>
-          prevIndex > 0 ? prevIndex - 1 : filteredVehicles.length - 1
-        );
-      }
-    } else if (e.key === "Enter") {
-      e.preventDefault();
-
-      if (selectedIndex >= 0 && filteredVehicles[selectedIndex]) {
-        setSearchValue(filteredVehicles[selectedIndex].name);
-        setDropdownOpen(false);
-        submitHandler(e);
-      } else {
-        submitHandler(e);
-      }
-    } else if (e.key === "Escape") {
-      setDropdownOpen(false);
-    }
-  };
-
-  const handleSelection = (vehicle, e) => {
-    setSearchValue(vehicle.name);
-    setDropdownOpen(false);
-    setSelectedIndex(-1);
-    submitHandler(e, vehicle.name);
-  };
-
-  const submitHandler = async (e, vehicle = "") => {
-    e.preventDefault();
-
-    const message = "This is message";
-    const searchVehicle = vehicle.length ? vehicle : searchValue;
-
-    const selected = message.filter((obj) => obj.name === searchVehicle);
-
-    if (selected.length) {
-      const { makeSlug, carSlug, images, baseVariant } = selected[0];
-      const state = { carSlug, makeSlug, images, baseVariant };
-      navigate(`/${makeSlug}/${carSlug}`, { state: { state } });
-    }
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
   };
 
   return (
-    <nav className="header-nav">
-      <form onSubmit={submitHandler} className="search-bar">
-        <select
-          value={selectedVehicle}
-          onChange={handleVehicleChange}
-          className="dropdowns"
-        >
-          {makes.map((vehicle, index) => (
-            <option key={index} value={vehicle.makeSlug}>
-              {vehicle.make}
-            </option>
-          ))}
-        </select>
+    <header className="bg-[#0f172a] py-4 w-full">
+      <div className="flex justify-between items-center px-10">
+        <div className="flex-shrink-0 ml-6">
+          <Link to="/" className="flex items-center">
+            <img src={logo1} alt="logo" className="w-20 h-auto" />
+          </Link>
+        </div>
+        <div className="relative w-[50%] hidden md:block">
+          <div className="flex items-center">
 
-        <div className="search-container">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            className="custom-svg"
-          >
-            <path
-              fill-rule="evenodd"
-              d="M10.5 3.75a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 0 0 0-13.5ZM2.25 10.5a8.25 8.25 0 1 1 14.59 5.28l4.69 4.69a.75.75 0 1 1-1.06 1.06l-4.69-4.69A8.25 8.25 0 0 1 2.25 10.5Z"
-              clip-rule="evenodd"
+            <select
+              className="p-[9.5px] border border-gray-300 rounded-l-md bg-gray-100 text-gray-700 cursor-pointer focus:outline-none "
+              defaultValue="all"
+            >
+              <option value="all">All Vehicles</option>
+              <option value="cars">Cars</option>
+              <option value="bikes">Bikes</option>
+              <option value="trucks">Trucks</option>
+              <option value="suvs">SUVs</option>
+              <option value="vans">Vans</option>
+            </select>
+            <input
+              type="text"
+              value={searchValue}
+              onChange={handleInputChange}
+              placeholder="Search for cars, bikes..."
+              className="p-2 border border-gray-300 rounded-r-md w-full focus:outline-none  "
             />
-          </svg>
-          <input
-            type="text"
-            placeholder="Search Vehicle"
-            value={searchValue}
-            onChange={handleInputChange}
-            className="search-text"
-            onKeyDown={handleKeyDown}
-          />
-          <span>All</span>
+            <FaSearch className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500" />
+          </div>
         </div>
 
-        {dropdownOpen && searchValue && filteredVehicles.length > 0 && (
-          <ul className="dropdown-menu">
-            {filteredVehicles.map((vehicle, index) => (
-              <li
-                key={index}
-                className={`dropdown-item ${
-                  selectedIndex === index ? "active" : ""
-                }`}
-                onClick={(e) => handleSelection(vehicle, e)}
-              >
-                {vehicle.title}
-              </li>
-            ))}
-          </ul>
-        )}
-      </form>
 
-      <div className="nav-links">
-        <div>
-          <Link to="/" className="title">
-            <img src={logo1} alt="logo" />
-            {/* <span>TheEVmotors</span> */}
+
+        {/* Login Link */}
+        <div className="hidden md:block"> {/* Hide on mobile */}
+          <Link className="text-white hover:text-blue-300 mx-2" title="Login">
+            <PersonIcon className="mr-1" fontSize="large" />
           </Link>
-          {/* <Lottie className='title' options={defaultOptions}
-                height='auto'
-                width={100}
-                /> */}
-        </div>
+          <Link className="text-white hover:text-blue-300 mx-2" title="Select location">
+            <AddLocationIcon className="mr-1" fontSize="large" />
+          </Link>
 
-        <div
-          className="menu"
-          onClick={() => {
-            setMenuOpen(!menuOpen);
-          }}
+        </div>
+        <button
+          onClick={toggleMenu}
+          className="md:hidden p-2 mr-4 ml-6 my-2 border rounded border-gray-600 text-blue-200 hover:border-blue-200"
         >
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
+          <GiHamburgerMenu className="text-2xl" />
+        </button>
+      </div>
 
-        <ul className={menuOpen ? "open" : ""}>
-          <li>
-            <NavLink
-              to="/newcars"
-              onClick={() => {
-                setMenuOpen(!menuOpen);
-              }}
-            >
-              Electric Cars
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/hybrid_cars"
-              onClick={() => {
-                setMenuOpen(!menuOpen);
-              }}
-            >
-              Hybrid Cars
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/hydrogen_cars"
-              onClick={() => {
-                setMenuOpen(!menuOpen);
-              }}
-            >
-              Hydrogen Cars
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/news_reviews"
-              onClick={() => {
-                setMenuOpen(!menuOpen);
-              }}
-            >
-              Car News
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/bike/news_reviews"
-              onClick={() => {
-                setMenuOpen(!menuOpen);
-              }}
-            >
-              Bikes News
-            </NavLink>
-          </li>
-          {/* <li>
-                        <NavLink to='/createblog' onClick={() => { setMenuOpen(!menuOpen) }
-                        }>Post</NavLink>
-                    </li> */}
-          {/* <li>
-                        <NavLink to='/details' onClick={() => { setMenuOpen(!menuOpen) }
-                        }>Details</NavLink>
-                    </li> */}
-          <li> {/* <LocationPopup />{" "} */}</li>
-        </ul>
 
-        <div className="login-nav">
-          <Link to="/login" className="title">
-            <span>
-              <PersonIcon />
-              <Button variant="Contained">Login</Button>
-            </span>
-            <div>
-              <AddLocationIcon />
-              Select Location
-            </div>
 
-            {/* <span>Login</span> */}
-          </Link>
+      <div className="flex justify-center">
+        <div className={`py-3 pl-6 w-full md:w-auto ${menuOpen ? 'block' : 'hidden'} md:block`} id="nav-content">
+          <ul className="md:flex items-center">
+            <li className="mr-6 p-1 border-yellow-500 md:border-b-2">
+              <Link className="text-white hover:text-blue-300" to="/newcars">Electric Cars</Link>
+            </li>
+            <li className="mr-6 p-1">
+              <Link className="text-white hover:text-blue-300" to="/hybrid_cars">Hybrid Cars</Link>
+            </li>
+            <li className="mr-6 p-1">
+              <Link className="text-white hover:text-blue-300" to="/hydrogen_cars">Hydrogen Cars</Link>
+            </li>
+            <li className="mr-6 p-1">
+              <Link className="text-white hover:text-blue-300" to="/news_reviews">Car News</Link>
+            </li>
+            <li className="mr-6 p-1">
+              <Link className="text-white hover:text-blue-300" to="/bike/news_reviews">Bikes News</Link>
+            </li>
+          </ul>
         </div>
       </div>
-      {/* <div className='login'>
-                <IoIosPerson>Login</IoIosPerson>
-            </div> */}
-    </nav>
+    </header>
   );
 };
 
